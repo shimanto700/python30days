@@ -1,12 +1,12 @@
 # Variables and assignment
-name = "Alice"
+name = "Shimanto"
 age = 25
 height = 5.6
 is_student = True
 
 # String operations
-first_name = "John"
-last_name = "Doe"
+first_name = "Hussain"
+last_name = "Shimanto"
 full_name = first_name + " " + last_name  # Concatenation
 print(f"Hello, {full_name}!")  # f-string formatting
 
